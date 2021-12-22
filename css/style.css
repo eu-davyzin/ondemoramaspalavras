@@ -33,7 +33,7 @@ blockquote{
     padding-top: 10px;
 }
 footer{
-    text-align: center;
+    text-align: center !important;
 }
 /*Cores
 
