@@ -1,0 +1,40 @@
+body{
+    color: whitesmoke !important;
+}
+.title{
+    background-color: black;
+    text-align: center;
+}
+.title h1{
+    margin-top: 50px;
+    font-size: 60px;
+    color: whitesmoke;
+}
+.inline{
+    display: inline !important;
+}
+a{
+    color: #99AAB5 !important;
+}
+.citação{
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    padding: 50px;
+}
+blockquote{
+    background-color: #99AAB5;
+    border-radius: 20px 0px 20px 0px;
+    color: #23272A;
+    padding: 2.5px;
+    padding-top: 10px;
+}
+/*Cores
+
+azul: #5865F2
+black: #23272A
+cinza: #99AAB5
+preto claro: #2C2F33
+preto mais claro: #23272A
+
+*/
