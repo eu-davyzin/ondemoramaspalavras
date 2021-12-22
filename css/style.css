@@ -1,6 +1,9 @@
 body{
     color: whitesmoke !important;
 }
+*{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
 .title{
     background-color: black;
     text-align: center;
@@ -28,6 +31,9 @@ blockquote{
     color: #23272A;
     padding: 2.5px;
     padding-top: 10px;
+}
+footer{
+    text-align: center;
 }
 /*Cores
 
