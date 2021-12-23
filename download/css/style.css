@@ -1,0 +1,41 @@
+body{
+    color: whitesmoke !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center !important;
+}
+html, body {height:100%;}
+main{
+    text-align: center;
+}
+button{
+    width: 200px;
+}
+section{
+    padding: 10px;
+    background-color: #5865F2;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: black !important;
+}
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+footer a{
+    color: #5865F2 !important;
+}
+.fixarrodape{
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+}
+p{
+    color: #99AAB5;
+}
